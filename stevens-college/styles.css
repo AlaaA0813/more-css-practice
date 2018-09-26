@@ -20,11 +20,18 @@ p {
 }
 
 a {
-  margin-left: 8em;
-  display: inline-block;
+  margin-left: 1em;
+  margin-right: 1em;
+  display: inline;
   background-color: darkred;
   color: white;
   padding: 1.5em;
   box-sizing: border-box;
   font-size: 20px;
+}
+
+nav {
+  margin-top: 3em;
+  text-align: center;
+  min-width: 500px;
 }
